@@ -2,4 +2,5 @@
 
 ### 1. Full Name: _Tran Ngoc Xuyen_
 ### 2. Date of Birth : 08/06/1998
-### 4. City : Da Nang City
+### 3. Company Name: Supremetech
+### 4. Team Name: Frontend
